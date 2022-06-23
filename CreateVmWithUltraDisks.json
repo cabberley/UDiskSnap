@@ -10,7 +10,6 @@
             }
         },
         "adminUsername": {
-            "defaultValue": "ultrauser",
             "type": "String",
             "metadata": {
                 "description": "The admin username of the VM."
@@ -31,7 +30,6 @@
         },
         "stampName": {
             "type": "String",
-            "defaultValue": "CBN14PrdSDF01A",
             "metadata": {
                 "description": "The name of the stamp."
             }
@@ -64,7 +62,6 @@
             }
         },
         "location": {
-            "defaultValue": "useast2euap",
             "type": "String",
             "metadata": {
                 "description": "Location for all resources."
